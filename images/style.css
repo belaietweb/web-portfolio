@@ -12,3 +12,10 @@ section{height: 500px;padding-bottom: 150px;}
 .name-highlight1{color:blueviolet;}
 .Link-Button1{text-decoration: none;background-color:red;padding: 10px 20px;border-radius: 5px;font-style:normal;font-weight: bold;}
 .bottom-banner{background-image: url(exp-bg.png);background-repeat: no-repeat;}
+.half2{width: 40%;float:right;margin-left: 5%;padding-left: 6%;box-shadow:5px 4px 50px gray; border-radius: 8px;height: 50%;}
+.half3{width: 30%;float:left;margin-left: 2%;padding-left: 5%;margin-right: 5%;box-shadow:5px 4px 50px gray; border-radius: 8px;height: 50%}
+.experiences{color:red;text-align: center; text-underline-position: below;border: 2px solid red;
+    border-radius: 5px;}
+.lastbanner{background-image: url(dream-bg.png);background-repeat: no-repeat;background-position: right;}
+#fullstack{border-left: 7px solid;border-color: aqua;}
+footer{text-align: center;font-size:small; font-style: italic;}
